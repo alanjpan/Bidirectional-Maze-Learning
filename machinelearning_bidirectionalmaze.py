@@ -16,7 +16,7 @@ Note this software's license is GNU GPLv3.
 import random
 import math
 
-#maze with solution left left left right
+#maze with solution left left left right right right
 maze = [0, 0, 0, 1, 1, 1]
 
 #action event to select left or right
